@@ -1,7 +1,7 @@
 # ISP-Network-Performance-Tracking 🚀  
 
 ### **Data-Driven Monitoring of ISP Network Performance**  
-A **Python-based tool** for continuously evaluating **latency and packet loss from RIPE Atlas measurements**. The software integrates **InfluxDB** for efficient long-term data storage and provides **Grafana dashboards** for clear visualization of measured values. Additionally, it supports **peering & transit cost optimization**, enabling ISPs to assess cost-effective routing strategies.  
+A **Python-based tool** for continuously evaluating **latency and packet loss from RIPE Atlas measurements**. The software integrates **InfluxDB** for efficient long-term data storage and provides **Grafana dashboards** for clear visualization of measured values. Additionally, it supports **peering & transit cost optimization**, enabling ISPs to assess cost-effective routing strategies. This project represents a small part of a larger planned software that will be continuously developed over time to include additional features and improvements. 
 
 ---
 

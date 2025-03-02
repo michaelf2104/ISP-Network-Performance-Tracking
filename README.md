@@ -52,18 +52,18 @@ python src/main.py
 ---
 
 ## **📊 Grafana Dashboard Setup**
-✅ Import the Dashboard Template – Use /dashboards/grafana_template.json
-✅ Connect InfluxDB as a Data Source – Configure it via the Grafana UI
-✅ Customize Visualizations – Adjust panels to fit specific monitoring needs
+✅ **Import the Dashboard Template – Use /dashboards/grafana_template.json
+✅ **Connect InfluxDB as a Data Source – Configure it via the Grafana UI
+✅ **Customize Visualizations – Adjust panels to fit specific monitoring needs
 
 ---
 
 ## **🛠️ Technologies Used**
-🔹 Python – Backend processing
-🔹 RIPE Atlas API – Network measurements
-🔹 InfluxDB – Time-series database
-🔹 Grafana – Data visualization
-🔹 Docker – Containerized deployment
+🔹 **Python – Backend processing
+🔹 **RIPE Atlas API – Network measurements
+🔹 **InfluxDB – Time-series database
+🔹 **Grafana – Data visualization
+🔹 **Docker – Containerized deployment
 
 ---
 
@@ -73,7 +73,7 @@ python src/main.py
 ---
 
 ## **👨‍💻 Author**
-👤 Michael Faltermeier
-🎓 Bachelor’s Thesis Project, Ostbayerische Technische Hochschule Regensburg
-📧 michael.faltermeier.st@gmail.com
-📍 Regensburg, Germany
+👤 **Michael Faltermeier
+🎓 **Bachelor’s Thesis Project, Ostbayerische Technische Hochschule Regensburg
+📧 **michael.faltermeier.st@gmail.com
+📍 **Regensburg, Germany

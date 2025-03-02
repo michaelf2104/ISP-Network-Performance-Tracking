@@ -49,14 +49,14 @@ replace the API key in config.json
 python src/main.py
 ```
 
---
+---
 
 ## **📊 Grafana Dashboard Setup**
 ✅ Import the Dashboard Template – Use /dashboards/grafana_template.json
 ✅ Connect InfluxDB as a Data Source – Configure it via the Grafana UI
 ✅ Customize Visualizations – Adjust panels to fit specific monitoring needs
 
---
+---
 
 ## **🛠️ Technologies Used**
 🔹 Python – Backend processing
@@ -65,12 +65,12 @@ python src/main.py
 🔹 Grafana – Data visualization
 🔹 Docker – Containerized deployment
 
---
+---
 
 ## **📜 License**
 📝 This project is licensed under the MIT License, allowing free use and modifications.
 
---
+---
 
 ## **👨‍💻 Author**
 👤 Michael Faltermeier

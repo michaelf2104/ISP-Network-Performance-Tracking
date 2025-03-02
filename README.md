@@ -1,29 +1,40 @@
-# ISP-Network-Performance-Tracking
-A Python-based network analytics tool leveraging RIPE Atlas, InfluxDB, and Grafana to optimize ISP transit, peering, and caching strategies through real-time monitoring and data-driven insights. 🚀  🚀  🚀  
+# ISP-Network-Performance-Tracking 🚀  
+
+### **Data-Driven Monitoring of ISP Network Performance**  
+A **Python-based tool** for continuously evaluating **latency and packet loss from RIPE Atlas measurements**. The software integrates **InfluxDB** for efficient long-term data storage and provides **Grafana dashboards** for clear visualization of measured values. Additionally, it supports **peering & transit cost optimization**, enabling ISPs to assess cost-effective routing strategies.  
 
 ---
 
 ## **🌟 Key Features**  
-
-✅ **Automated RIPE Atlas Measurements** – Continuously collects latency, packet loss, and routing data  
-✅ **InfluxDB Integration** – Efficiently stores time-series network data for long-term analysis  
-✅ **Grafana Dashboards** – Provides pre-configured visualizations for easy monitoring  
+✅ **Continuous Latency & Packet Loss Evaluation** – Automates RIPE Atlas data collection for real-time insights  
+✅ **InfluxDB Integration** – Efficiently stores data points for long-term analysis  
+✅ **Grafana Dashboards** – Visualizes network performance trends for better insights  
 ✅ **Peering & Transit Cost Optimization** – Helps ISPs evaluate cost-effective routing strategies  
-✅ **Docker Support** – Deploy the entire system in a containerized environment  
 
 ---
 
 ## **📌 Use Cases**  
-- **Cost Optimization**: Identify opportunities to reduce IP transit expenses through **peering**  
-- **Performance Monitoring**: Track **latency, packet loss, and routing** over time  
-- **ISP Strategy**: Improve connectivity by analyzing **network traffic between Autonomous Systems**  
+📍 **Network Performance Monitoring** – Track latency and packet loss trends over time  
+📍 **Bottleneck Identification** – Detect inefficient routing paths and high-latency connections  
+📍 **Peering & Transit Cost Evaluation** – Assess interconnection strategies for cost and performance benefits  
+📍 **Routing Optimization** – Compare peering and transit performance for data-driven decision-making  
 
 ---
 
 ## **📦 Installation**  
 
-### **1. Clone the Repository**
+### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/ISP-Network-Optimization.git
-cd ISP-Network-Optimization
+git clone https://github.com/michaelf2104/ISP-Network-Performance-Tracking.git
+cd ISP-Network-Performance-Tracking
+
+pip install -r requirements.txt
+
+{
+  "api_key": "your_api_key_here",
+  "influxdb_host": "localhost",
+  "influxdb_port": 8086
+}
+
+python src/main.py
 

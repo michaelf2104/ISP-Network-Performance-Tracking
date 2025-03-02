@@ -63,7 +63,6 @@ python src/main.py
 🔹 **RIPE Atlas API – Network measurements
 🔹 **InfluxDB – Time-series database
 🔹 **Grafana – Data visualization
-🔹 **Docker – Containerized deployment
 
 ---
 

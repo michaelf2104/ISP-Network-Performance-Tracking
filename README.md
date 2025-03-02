@@ -52,27 +52,27 @@ python src/main.py
 ---
 
 ## **📊 Grafana Dashboard Setup**
-✅ **Import the Dashboard Template – Use /dashboards/grafana_template.json**
-✅ **Connect InfluxDB as a Data Source – Configure it via the Grafana UI**
-✅ **Customize Visualizations – Adjust panels to fit specific monitoring needs**
+✅ **Import the Dashboard Template** – Use /dashboards/grafana_template.json
+✅ **Connect InfluxDB as a Data Source** – Configure it via the Grafana UI
+✅ **Customize Visualizations** – Adjust panels to fit specific monitoring needs
 
 ---
 
 ## **🛠️ Technologies Used**
-🔹 **Python – Backend processing**
-🔹 **RIPE Atlas API – Network measurements**
-🔹 **InfluxDB – Time-series database**
-🔹 **Grafana – Data visualization**
+🔹 **Python** – Backend processing
+🔹 **RIPE Atlas API** – Network measurements
+🔹 **InfluxDB** – Time-series database
+🔹 **Grafana** – Data visualization
 
 ---
 
 ## **📜 License**
-📝 This project is licensed under the MIT License, allowing free use and modifications.**
+📝 This project is licensed under the MIT License, allowing free use and modifications.
 
 ---
 
 ## **👨‍💻 Author**
 👤 **Michael Faltermeier**
-🎓 **Bachelor’s Thesis Project, Ostbayerische Technische Hochschule Regensburg**
+🎓 **Bachelor’s Thesis Project** - Ostbayerische Technische Hochschule Regensburg
 📧 **michael.faltermeier.st@gmail.com**
 📍 **Regensburg, Germany**

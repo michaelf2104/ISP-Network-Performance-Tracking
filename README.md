@@ -53,9 +53,6 @@ python src/main.py
 
 ## 📊 Grafana Dashboard Setup  
 
-### ✅ Import the Dashboard Template  
-Use `/dashboards/grafana_template.json`  
-
 ### ✅ Connect InfluxDB as a Data Source  
 Configure it via the Grafana UI  
 

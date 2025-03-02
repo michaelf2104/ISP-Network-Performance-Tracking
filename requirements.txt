@@ -1,0 +1,5 @@
+influxdb-client
+requests
+urllib3
+pillow
+tk

@@ -21,46 +21,6 @@ A **Python-based tool** for continuously evaluating **latency and packet loss fr
 
 ---
 
-## **📦 Installation**  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/michaelf2104/ISP-Network-Performance-Tracking.git
-cd ISP-Network-Performance-Tracking
-```
-
-### **2️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Configure API Access**
-replace the API key in config.json
-```bash
-{
-  "api_key": "your_api_key_here",
-  "influxdb_host": "localhost",
-  "influxdb_port": 8086
-}
-```
-
-### **4️⃣ Start the Application**
-```bash
-python src/main.py
-```
-
----
-
-## 📊 Grafana Dashboard Setup  
-
-### ✅ Connect InfluxDB as a Data Source  
-Configure it via the Grafana UI  
-
-### ✅ Customize Visualizations  
-Adjust panels to fit specific monitoring needs  
-
----
-
 ## 🛠️ Technologies Used  
 
 - **Python** – Backend processing  
